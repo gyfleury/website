@@ -13,7 +13,7 @@
                         <li><a href="#home">Accueil</a></li>
                         <li><a href="#news">A propos</a></li>
                         <li><a href="#contact">Qui sommes-nous</a></li>
-                        <li><a href="#about">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                    </ul>
 </div>
 <div class="sections">
