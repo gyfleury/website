@@ -1,7 +1,7 @@
 <?php include 'head.php'; ?>
 
 <div class="right-section">
-      Page Accueil    
+      Page Politique
 </div>
 
 <?php include 'footer.php'; ?>
