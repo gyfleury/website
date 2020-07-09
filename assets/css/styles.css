@@ -22,3 +22,10 @@
 .vert-menu li a {
     text-decoration: none;
 }
+.sections {
+    display: flex;
+}
+.left-section{
+    padding-left: 40px;
+    padding-top: 15px;
+}

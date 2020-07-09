@@ -16,7 +16,7 @@
                         <li><a href="#about">Contact</a></li>
                    </ul>
 </div>
-
+<div class="sections">
  <div class="vert-menu">
             <ul>
                  <li><a href="#home">Politique</a></li>
