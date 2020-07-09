@@ -1,0 +1,19 @@
+.hor-menu {
+    width: 100%;
+}
+.hor-menu li {
+    background-color: #eee;
+    color: black; 
+    display: inline-block; 
+    padding: 12px;
+}
+.vert-menu {
+    width: 200px;
+}
+.vert-menu li {
+    background-color: #eee;
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none;
+}
