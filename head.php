@@ -10,18 +10,18 @@
     <body>
          <div class="hor-menu">
                    <ul>
-                        <li><a href="#home">Accueil</a></li>
-                        <li><a href="#news">A propos</a></li>
-                        <li><a href="#contact">Qui sommes-nous</a></li>
+                        <li><a href="index.php">Accueil</a></li>
+                        <li><a href="a_propos.php">A propos</a></li>
+                        <li><a href="quisommes.php">Qui sommes-nous</a></li>
                         <li><a href="contact.php">Contact</a></li>
                    </ul>
 </div>
 <div class="sections">
  <div class="vert-menu">
             <ul>
-                 <li><a href="#home">Politique</a></li>
-                 <li><a href="#news">Economie</a></li>
-                 <li><a href="#contact">Sport</a></li>
-                 <li><a href="#about">Musique</a></li>
+                 <li><a href="politique.php">Politique</a></li>
+                 <li><a href="economie.php">Economie</a></li>
+                 <li><a href="sport.php">Sport</a></li>
+                 <li><a href="musique.php">Musique</a></li>
              </ul>
 </div>
