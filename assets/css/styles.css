@@ -25,7 +25,7 @@
 .sections {
     display: flex;
 }
-.left-section{
+.right-section{
     padding-left: 40px;
     padding-top: 15px;
 }
